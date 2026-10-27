@@ -1,0 +1,2 @@
+Model,BLEU,chrF,Inference_Time_s,Parameters,Training_Time_s
+Gemma 3 1B IT,15.66511097445508,40.8491912901365,150.71880535900027,651005056,

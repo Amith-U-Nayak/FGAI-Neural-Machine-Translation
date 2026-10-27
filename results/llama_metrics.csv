@@ -1,0 +1,2 @@
+Model,BLEU,chrF,Inference_Time_s,Parameters,Training_Time_s
+LLaMA 3.2 1B Instruct,13.256719347258718,40.3171019507002,76.10764087500047,749275136,
